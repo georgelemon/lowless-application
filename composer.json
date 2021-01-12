@@ -23,14 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "App\\": "app/",
-            "Ethos\\Dessert\\": "vendor/georgelemon/dessert/src/",
-            "Low\\": "vendor/georgelemon/lowless/src/"
-        },
-        "files":[
-            "vendor/georgelemon/lowless/src/helper.php",
-            "app/helper.php",
-            "vendor/georgelemon/lowless/src/bootstrap.php"
-        ]
+            "App\\": "app/"
+        }
     }
 }
