@@ -1,5 +1,5 @@
 <?php
 
 route()->get('/', function(){
-    return 'Kinda landing page...';
-})
+    return response('202');
+});
