@@ -2,7 +2,7 @@
 
 namespace App\Middleware;
 
-use Lowless\Middleware\MiddlewareContract;
+use Loopless\Middleware\MiddlewareContract;
 
 class BaseMiddleware implements MiddlewareContract
 {
