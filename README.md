@@ -1,7 +1,7 @@
 ![Loopless Micro App Framework](.github/loopless-cover.png)
 
 ## Loopless
-**A minimal PHP framework for developing front-end web applications without being attached to a backend**. Loopless main scope is to be an API consumer and to stay wired to your whatever backend apps (one or more) with the possibility of caching results for later use. But it can be also used as a static & standalone app (see WikiPeep project).
+**A minimal PHP framework for developing front-end web applications**. Loopless main scope is to be an API consumer and to stay wired to your whatever backend apps (one or more) with the possibility of caching results for later use. But it can be also used as a static & standalone app (see WikiPeep project).
 
 Out of the box, Loopless comes with a MVC structure (without a database setup), a simple Router with dependency injection support, Response & Request handler, a Configuration Array in Laravel style and that's it! Ah, and of course comes with GuzzleHttp Support so in case you get it via composer you can make API connections easily.
 
@@ -49,10 +49,10 @@ Your personal feedreader adapted to the present needs. Developed on Loopless.
 🧐 [Ego](https://github.com/georgelemon/ego) <code>JS</code> <kbd>GPLv3</kbd><br>
 The content editor that really lets you write. Based on Electron. Available for Linux, Mac and Windows.
 
-🍰 [Dessert](https://github.com/georgelemon/dessert) <code>PHP</code> <kbd>GPLv3</kbd><br>
+🍰 [Dessert](https://github.com/georgelemon/dessert) <code>PHP</code> <kbd>MIT</kbd><br>
 Server Side Builder, Renderer & Manager for all your Icon Libraries that replace Webfonts or heavy Javascript libraries. Instead, it collects all your icons and store them as XML collections and render on request in no-time!
 
-🚀 [Camino.js](https://github.com/georgelemon/camino.js) <code>PHP</code> <kbd>GPLv3</kbd><br>
+🚀 [Camino.js](https://github.com/georgelemon/camino.js) <code>PHP</code> <kbd>MIT</kbd><br>
 A fluent PHP API library that lets you write Vanilla JavaScript code directly from PHP.
 
 ### Do you have a nice project in mind?
