@@ -2,9 +2,9 @@
 
 namespace App\Controller;
 
-use Loopless\Controller\BaseController as LowlessBaseController;
+use Loopless\Controller\BaseController as LooplessController;
 
-class BaseController extends LowlessBaseController
+class BaseController extends LooplessController
 {
     // 
 }
