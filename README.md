@@ -15,7 +15,7 @@ Loopless is our first choice when it comes to create fast custom web apps target
 - [x] Perfect for small web apps and simple REST APIs
 
 ## Install
-
+You can grab a copy of this application template by clicking [Use this template](https://github.com/openpeep/loopless/generate), clone to your local and run `composer install` or `psy install`.
 
 ## Production
 
